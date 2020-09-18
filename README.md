@@ -1,7 +1,7 @@
 ![](https://f.ccm.gg/p/0920/Phil.png)
 
 ## 👋 About Me
-I'm a 17 year old computer science enthusiast (and high school student). I'm also the CTO at [https://github.com/cheatcodemedia](@cheatcodemedia)!
+I'm a 17 year old computer science enthusiast (and high school student). I'm also the CTO at [@cheatcodemedia](https://github.com/cheatcodemedia)!
 
 ## 🥽 Find Me
 You can connect with me on:
