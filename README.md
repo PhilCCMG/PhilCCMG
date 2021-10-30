@@ -14,10 +14,11 @@ You can connect with me on:
 * Java
 * JavaScript
 * PHP
+* C#
 
 #### I'm reasonably proficient in these languages:
-* C#
 * Python
+* TypeScript
 
 #### I'm also learning:
 * Go
