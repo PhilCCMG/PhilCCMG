@@ -12,17 +12,14 @@ You can connect with me on:
 ## 🧪 My Skills
 #### I primarily work in:
 * Java
-* JavaScript
+* TypeScript (JavaScript)
 * PHP
 * C#
+* Python
+* Solidity
 
 #### I'm reasonably proficient in these languages:
-* Python
-* TypeScript
-
-#### I'm also learning:
-* Go
-* Rust
+* C
 * C++
 
 #### Other Skills
