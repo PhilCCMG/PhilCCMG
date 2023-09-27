@@ -1,5 +1,5 @@
 # 👋 Hey!
-Howdy! I'm Phil, and I'm the Managing Director of [CheatCode Media Group](https://github.com/cheatcodemedia).
+Howdy! I'm Phil, and I'm the Managing Director of [CheatCode Media Group](https://github.com/cheatcodemedia) and a Director at [RedEye Technologies](https://github.com/redeyetechnology).
 
 ## 🥽 Let's Connect
 If you want to contact me, get in touch via:
